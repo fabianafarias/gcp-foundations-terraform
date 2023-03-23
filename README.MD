@@ -2,4 +2,6 @@
 
 ## Desenho de organização, pastas, projetos e grupos do GCP:
 
-(https://github.com/fabianafarias/gcp-foundations-terraform/blob/main/desafio-GCP1.jpeg)
+<div align="center>
+<img src="https://user-images.githubusercontent.com/47903743/227082380-f489f807-7833-4c50-ba99-415ad1bb84c4.jpeg" width="700px" />
+</div>
